@@ -1,4 +1,4 @@
-# 🌐  Carrd-Web-Projects
+# 🎨 Carrd-Web-Projects
 
 <sub>🗓️ Developed in September 2025</sup>
 
