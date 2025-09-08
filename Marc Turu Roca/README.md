@@ -1,10 +1,12 @@
-# Personal Portfolio
+# Personal Portfolio [https://marctururoca.carrd.co/](https://marctururoca.carrd.co/)  
 
-[https://marctururoca.carrd.co/](https://marctururoca.carrd.co/)  
+---
 
 ## ✍️ Notes
 - Status: Published  
-- Future ideas: Add more project case studies and update the contact form.
+- Future ideas: Keep the portfolio updated with new projects and improve the contact form for better usability.
+
+--- 
 
 ## 📷 Screenshots  
 
