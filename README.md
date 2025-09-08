@@ -6,10 +6,10 @@ This repository collects the websites I’ve built with **Carrd**.
 
 ---
 
-1. **[Marc Turu Roca](https://marctururoca.carrd.co/)**
+1. **[Marc Turu Roca](https://marctururoca.carrd.co/)**  
    My personal portfolio showcasing my work, projects, and contact details.
 
-2. **[La Rueda Del Sabor](https://laruedadelsabor.carrd.co/)**
+2. **[La Rueda Del Sabor](https://laruedadelsabor.carrd.co/)**  
    A sample landing page for a fictional pizzeria, including menu highlights and contact info.
 
 ---
