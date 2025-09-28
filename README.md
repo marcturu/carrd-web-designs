@@ -2,7 +2,7 @@
 
 <sub>🗓️ Developed in September 2025</sup>
 
-This repository collects the websites I’ve built with **Carrd**.
+This repository collects the responsive landing pages designed with the no-code platform **Carrd**.
 
 ---
 
