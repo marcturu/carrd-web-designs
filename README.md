@@ -1,4 +1,4 @@
-# 🎨 Carrd Web Designs
+# 🎨 Carrd Web Designs — Responsive landing Pages, no-code style
 
 <sub>🗓️ Developed in September 2025</sup>
 
